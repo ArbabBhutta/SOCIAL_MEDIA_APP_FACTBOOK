@@ -1,0 +1,54 @@
+.Signup{
+    background-color:#031e36;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-top: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(to right, #031e36, #073259);
+   
+}
+.signUp_container{
+    background-image: url('https://images.unsplash.com/photo-1554177255-61502b352de3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHNvY2lhbCUyMG1lZGlhfGVufDB8fDB8fHww');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.hove:hover{
+    text-decoration: underline;
+}
+.input_feilds {
+    border: 1px solid #073259;
+    border-radius: 5px;
+    padding: 8px;
+    /* ... other existing styles ... */
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .Signup {
+        width: 70%; /* Adjust the width for smaller screens */
+    }
+
+    .input_feilds {
+        width: 100%; /* Make the input fields full width */
+        box-sizing: border-box; /* Include padding and border in the width */
+    }
+}
+.s_b {
+    background-color: #073259;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.s_b:hover {
+    background-color: #031e36;
+    color: white;
+}

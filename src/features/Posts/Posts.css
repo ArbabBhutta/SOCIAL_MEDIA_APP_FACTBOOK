@@ -1,0 +1,79 @@
+.post_container{
+  padding: 10px;
+  border:1px solid silver;
+  border-radius: 10px;
+}
+.suggest{
+  position: sticky;
+  top: 90px;
+  color: white;
+  height: 82vh;
+  background-color:rgb(21, 21, 21);
+  border-radius: 10px;
+  margin-left: 10px;
+}
+.cmntInput{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-top: 1px;
+  border-left: 1px;
+ border-bottom: 1px;
+ 
+
+}
+.send{
+  background-color: rgb(216, 216, 216);
+  border: none;
+}
+
+@media (max-width: 767px) {
+  .suggest {
+   display: none;
+  }
+}
+
+
+.follow_b{
+  font-size: 15px;
+  background-color: transparent;
+  color: white;
+  border: none;
+}
+.signOut{
+  background-color: transparent;
+  border: none;
+  color: white;
+}
+.s_b {
+  background-color: #073259; /* Green */
+  color: white;
+  border: 1px solid #073259; /* Green */
+  font-size: 14px;
+  transition: background-color 0.3s;
+  
+ }
+ .s_b:hover {
+  background-color: #164b7d; /* Dark Green */
+  color: white;
+  border: 1px solid #164b7d; /* Dark Green */
+ }
+ .s_b i {
+  margin-right: 5px;
+ }
+ .post_title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+ }
+ .img_container {
+  margin-bottom: 10px;
+ }
+ 
+ .img {
+  max-height: 400px;
+  object-fit: cover;
+ }
+ .posted_at {
+  font-size: 14px;
+  color: gray;
+ }

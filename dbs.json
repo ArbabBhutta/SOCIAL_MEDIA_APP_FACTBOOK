@@ -1,0 +1,231 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userName": "Arbab",
+      "title": "testing",
+      "body": "Also Testing",
+      "image": "https://images.unsplash.com/photo-1705599773334-b73b8f707101?q=80&w=1414&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "liked_by": [
+        "Arbab Khan",
+        "Laibaa",
+        "Junior"
+      ],
+      "postedDate": {
+        "date": 20,
+        "day": "mon",
+        "year": "2021",
+        "hour": "12",
+        "minute": "44",
+        "month": "jun"
+      },
+      "comments": [
+        {
+          "cmntBy": "Arbab",
+          "inComent": "nop"
+        }
+      ],
+      "reactions": 3
+    },
+    {
+      "userName": "Jassica",
+      "title": "What You know about ....?",
+      "body": "Supreme",
+      "image": "https://i.ibb.co/SXkcD4T/snkrcmpny-u-Qaqoh-Cv-IE-unsplash.jpg",
+      "reactions": 3,
+      "liked_by": [
+        "Laibaa",
+        "Arbab Khan",
+        "Junior"
+      ],
+      "postedDate": {
+        "date": 4,
+        "day": "Sunday",
+        "year": 2024,
+        "hour": 5,
+        "minute": 44,
+        "month": "Feb"
+      },
+      "comments": [
+        {
+          "cmntBy": "Junior",
+          "inComent": "thats nice brand"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userName": "Laibaa",
+      "title": "Having Fun Isn't?",
+      "body": "Farming is Life",
+      "image": "https://i.ibb.co/61pD54f/mahdi-chaghari-rl-LWr-MZ4-Qx8-unsplash.jpg",
+      "reactions": 1,
+      "liked_by": [
+        "Arbab Khan"
+      ],
+      "postedDate": {
+        "date": 4,
+        "day": "Sunday",
+        "year": 2024,
+        "hour": 5,
+        "minute": 46,
+        "month": "Feb"
+      },
+      "comments": [
+        {
+          "cmntBy": "Arbab Khan",
+          "inComent": "hi"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userName": "Shivani Khanna",
+      "title": " Spiritual Talk",
+      "body": "Calmness",
+      "image": "https://i.ibb.co/M8zfVKq/sarah-mak-IKJr-Ytd-Fku8-unsplash.jpg",
+      "reactions": 2,
+      "liked_by": [
+        "Arbab Khan",
+        "Junior"
+      ],
+      "postedDate": {
+        "date": 4,
+        "day": "Sunday",
+        "year": 2024,
+        "hour": 5,
+        "minute": 49,
+        "month": "Feb"
+      },
+      "comments": [],
+      "id": 4
+    },
+    {
+      "userName": "Aleenaa B",
+      "title": "Foodie",
+      "body": "Lovishhhhhh",
+      "image": "https://i.ibb.co/NCjjqzK/nilufar-nattaq-GYTv-V5-NK93-M-unsplash.jpg",
+      "reactions": 0,
+      "liked_by": [],
+      "postedDate": {
+        "date": 4,
+        "day": "Sunday",
+        "year": 2024,
+        "hour": 5,
+        "minute": 51,
+        "month": "Feb"
+      },
+      "comments": [],
+      "id": 5
+    },
+    {
+      "userName": "Arbab Khan",
+      "title": "Sweetie",
+      "body": "Awesome",
+      "image": "https://i.ibb.co/N7QTmZz/micheile-henderson-4-AJUG-B17i0-unsplash.jpg",
+      "reactions": 1,
+      "liked_by": [
+        "Junior"
+      ],
+      "postedDate": {
+        "date": 4,
+        "day": "Sunday",
+        "year": 2024,
+        "hour": 5,
+        "minute": 52,
+        "month": "Feb"
+      },
+      "comments": [
+        {
+          "cmntBy": "Junior",
+          "inComent": "yum"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "userName": "Arbab Khan",
+      "title": "Avoid The Noise And ",
+      "body": "Just...",
+      "image": "https://i.ibb.co/K0c8XMN/kelly-sikkema-514dv0uz-Wwk-unsplash.jpg",
+      "reactions": 0,
+      "liked_by": [],
+      "postedDate": {
+        "date": 4,
+        "day": "Sunday",
+        "year": 2024,
+        "hour": 5,
+        "minute": 58,
+        "month": "Feb"
+      },
+      "comments": [],
+      "id": 7
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "userName": "Arbab Khan",
+      "phone": "03289472847",
+      "Password": "1234",
+      "friends": [
+        "Shivani Khanna"
+      ],
+      "ProfilePic": "https://i.ibb.co/YfB2jDz/Whats-App-Image-2023-12-07-at-7-16-57-AM.jpg"
+    },
+    {
+      "userName": "Aleenaa B",
+      "phone": "247852398",
+      "Password": "12345",
+      "friends": [],
+      "ProfilePic": "https://i.ibb.co/xh0bbdW/qu-nh-le-m-nh-dp3-CS405-UZM-unsplash.jpg",
+      "id": 2
+    },
+    {
+      "userName": "Jassica",
+      "phone": "249829482",
+      "Password": "1234",
+      "friends": [],
+      "ProfilePic": "https://i.ibb.co/Wf5YtS3/fineas-gavre-o-Gzd-Hkb-Gg7w-unsplash.jpg",
+      "id": 3
+    },
+    {
+      "userName": "Imad",
+      "phone": "5839394",
+      "Password": "1234",
+      "friends": [],
+      "ProfilePic": "https://i.ibb.co/VBfnz34/captian-jayu-FMk47-51-Qtw-unsplash.jpg",
+      "id": 4
+    },
+    {
+      "userName": "Laibaa",
+      "phone": "9304234",
+      "Password": "1234",
+      "friends": [
+        "Shivani Khanna"
+      ],
+      "ProfilePic": "https://i.ibb.co/3MvL5C7/angelina-GAj-SIOOn-Yq4-unsplash.jpg",
+      "id": 5
+    },
+    {
+      "userName": "Shivani Khanna",
+      "phone": "38498298232",
+      "Password": "1234",
+      "friends": [
+        "Jassica"
+      ],
+      "ProfilePic": "https://i.ibb.co/XCtrSZD/omid-armin-6-Unon01h-Kw-I-unsplash.jpg",
+      "id": 6
+    },
+    {
+      "userName": "Junior",
+      "phone": "0232492842",
+      "Password": "1234",
+      "friends": [
+        "Jassica"
+      ],
+      "ProfilePic": "https://i.ibb.co/BrbSkG6/fineas-gavre-o-Gzd-Hkb-Gg7w-unsplash.jpg",
+      "id": 7
+    }
+  ]
+}

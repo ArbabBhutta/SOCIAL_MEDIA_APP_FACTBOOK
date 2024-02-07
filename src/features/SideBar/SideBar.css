@@ -1,0 +1,36 @@
+.s_b{
+    background-color: #073259;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    margin: 5px;
+   min-height:  39px;
+    
+}
+
+.s_b:hover{
+    background-color:whitesmoke;
+    color: #073259;
+}
+.navbar{
+    position: sticky;
+    top: 0px;
+    border: transparent;
+    background-color: rgb(21, 21, 21);
+    
+}
+.nav_b{
+    padding-left: 20px;
+    text-decoration: none;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+@media (min-width: 767px) {
+    .hide {
+     display: none;
+    }
+  }
